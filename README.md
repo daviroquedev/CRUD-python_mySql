@@ -1,4 +1,4 @@
-# SIMULADOR DE SISTEMA BANCARIO COM PYTHON E MYSQL [POO]
+## SIMULADOR DE SISTEMA BANCARIO COM PYTHON E MYSQL [POO]
 
 
 <p>Codigo python ligando ao banco mysql.</p>
@@ -6,11 +6,11 @@
 
 *Utilizar o comando pip mysql-connector-python para baixar a lib necessaria para rodar o projeto
 
-# SCHEMA
+## SCHEMA
  
  tbContas (numero, titular, saldo, limite, tipo) VALUES ('{numero}','{titular}','{saldo}','{limite}', '{tipo}')
  
- # FUNÇOES
+ ## FUNÇOES
  
  <ul>
   <li>CADASTRAR UMA NOVA CONTA</li>
